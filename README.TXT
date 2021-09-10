@@ -19,7 +19,7 @@ Discord pour aide : https://discord.gg/j8ENwKF
 
 
 
-English Version here : in 1 week
+English Version here : http://github.com/coykn3/DiscordBotSoukiEN
 
   ____              ____                    _      _ 
  | __ )   _   _    / ___|    ___    _   _  | | __ (_)
