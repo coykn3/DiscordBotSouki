@@ -9,7 +9,7 @@
 
 
 
-Vidéo tuto ici : lien de la vidéo
+Vidéo tuto ici : https://youtu.be/62aPmmiMQFY
 
 
 
